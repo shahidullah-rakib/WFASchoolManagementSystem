@@ -1,0 +1,127 @@
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe.config
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.pdb
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csprojResolveAssemblyReference.cache
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Properties.Resources.resources
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csproj.GenerateResource.Cache
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.exe
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.pdb
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formLogin.resources
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.formAdmin.resources
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formStudent.resources
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Teachers.formTeachers.resources
+G:\Studies\7th semester\C#\Final project\Group Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.FormAdminInsertTeacherInfo.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe.config
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csprojResolveAssemblyReference.cache
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.formAdmin.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formLogin.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Properties.Resources.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formStudent.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Teachers.formTeachers.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csproj.GenerateResource.Cache
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.exe
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.pdb
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.pdb
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormAdminInfo.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormStudentInfo.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.FormTeacherInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe.config
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.exe
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.pdb
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csprojResolveAssemblyReference.cache
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.formAdmin.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormAdminInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormStudentInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.FormTeacherInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formLogin.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Properties.Resources.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formStudent.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Teachers.formTeachers.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csproj.GenerateResource.Cache
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver6\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.pdb
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe.config
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.formAdmin.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormAdminInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormStudentInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.FormTeacherInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formLogin.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Properties.Resources.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formStudent.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Teachers.formTeachers.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csproj.GenerateResource.Cache
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.exe
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.pdb
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csprojResolveAssemblyReference.cache
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver7\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.pdb
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.PasswordIssu.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Student.Resultinfo.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Library.formLibrary.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe.config
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.exe
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.pdb
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.pdb
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csprojResolveAssemblyReference.cache
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.formAdmin.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.PasswordIssu.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormAdminInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormStudentInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.FormTeacherInfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Library.formLibrary.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formLogin.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Properties.Resources.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Student.Resultinfo.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formStudent.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Teachers.formTeachers.resources
+D:\AIUB\7TH Semester\OBJECT ORIENTED PROGRAMMING 2 [F]\FinalTerm\Project\Ver8\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csproj.GenerateResource.Cache
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.AcademicCalendar.formAcademicCalendar.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Courses.formCourses.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Information.formStudentInindividualInfo.resources
+E:\Project\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Information.formTeacherInindividualInfo.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe.config
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.exe
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.pdb
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.pdb
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csprojResolveAssemblyReference.cache
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.AcademicCalendar.formAcademicCalendar.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.formAdmin.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.PasswordIssu.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Courses.formCourses.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormAdminInfo.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormStudentInfo.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.FormTeacherInfo.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Information.formStudentInindividualInfo.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Information.formTeacherInindividualInfo.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Library.formLibrary.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formLogin.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Properties.Resources.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Student.Resultinfo.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formStudent.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Teachers.formTeachers.resources
+G:\project c#\WFASchoolManagementSystemV3\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csproj.GenerateResource.Cache
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe.config
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.exe
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.pdb
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.exe
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\bin\Debug\WFASchoolManagementSystem.pdb
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csprojResolveAssemblyReference.cache
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.AcademicCalendar.formAcademicCalendar.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.formAdmin.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.PasswordIssu.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Courses.formCourses.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormAdminInfo.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Grid_View.FormStudentInfo.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Admin.FormTeacherInfo.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Information.formStudentInindividualInfo.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Information.formTeacherInindividualInfo.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Library.formLibrary.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formLogin.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Properties.Resources.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Student.Resultinfo.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.formStudent.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.Teachers.formTeachers.resources
+G:\project c#\WFASchoolManagementSystem\WFASchoolManagementSystem\obj\Debug\WFASchoolManagementSystem.csproj.GenerateResource.Cache
